@@ -1,2 +1,2 @@
 # Tindog-practice
-My version of Tindog
+My version of Tindog - practice
